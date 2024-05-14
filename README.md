@@ -12,3 +12,7 @@ git status --short
 A - Files added to stage
 M - Modified files
 D - Deleted files
+
+git commit -a -m "Update index.html with a new line"
+
+git log
