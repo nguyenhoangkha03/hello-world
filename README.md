@@ -16,3 +16,5 @@ D - Deleted files
 git commit -a -m "Update index.html with a new line"
 
 git log
+
+It now includes steps for Github
